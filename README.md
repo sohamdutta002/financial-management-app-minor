@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://budget-buddy-finance.netlify.app" target='_blank'>
-    <img src="./src/assets/main-screen.png" alt="main-page-screen" width='900'>
+<!--     <img src="./src/assets/main-screen.png" alt="main-page-screen" width='900'> -->
 <h3 align="center">Financial Management Application</h3>
   <p align="center">
 A web application for managing your finance built using React, CSS, Redux, and Firebase.
